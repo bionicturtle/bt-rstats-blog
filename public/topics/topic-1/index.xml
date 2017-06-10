@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Topics on My blog</title>
-    <link>/topics/</link>
-    <description>Recent content in Topics on My blog</description>
+    <title>Topic 1 on My blog</title>
+    <link>/topics/topic-1/</link>
+    <description>Recent content in Topic 1 on My blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>davidh@bionicturtle.com (David Harper, CFA, FRM)</managingEditor>
@@ -11,16 +11,16 @@
     <copyright>(c) 2016 Copyright my blog</copyright>
     <lastBuildDate>Fri, 09 Jun 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/topics/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/topics/topic-1/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Topic 1</title>
-      <link>/topics/topic-1/</link>
+      <title>First entry</title>
+      <link>/2017/06/09/first-entry/</link>
       <pubDate>Fri, 09 Jun 2017 00:00:00 +0000</pubDate>
       <author>davidh@bionicturtle.com (David Harper, CFA, FRM)</author>
-      <guid>/topics/topic-1/</guid>
-      <description></description>
+      <guid>/2017/06/09/first-entry/</guid>
+      <description>Headline Text</description>
     </item>
     
   </channel>

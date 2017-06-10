@@ -6,8 +6,8 @@
     <description>Recent content in Tags on My blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <managingEditor>yourname@example.com (yourname)</managingEditor>
-    <webMaster>yourname@example.com (yourname)</webMaster>
+    <managingEditor>davidh@bionicturtle.com (David Harper, CFA, FRM)</managingEditor>
+    <webMaster>davidh@bionicturtle.com (David Harper, CFA, FRM)</webMaster>
     <copyright>(c) 2016 Copyright my blog</copyright>
     <lastBuildDate>Thu, 23 Jul 2015 21:13:14 -0500</lastBuildDate>
     
@@ -18,7 +18,7 @@
       <title>Plot</title>
       <link>/tags/plot/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
-      <author>yourname@example.com (yourname)</author>
+      <author>davidh@bionicturtle.com (David Harper, CFA, FRM)</author>
       <guid>/tags/plot/</guid>
       <description></description>
     </item>
@@ -27,7 +27,7 @@
       <title>R Markdown</title>
       <link>/tags/r-markdown/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
-      <author>yourname@example.com (yourname)</author>
+      <author>davidh@bionicturtle.com (David Harper, CFA, FRM)</author>
       <guid>/tags/r-markdown/</guid>
       <description></description>
     </item>
@@ -36,7 +36,7 @@
       <title>Regression</title>
       <link>/tags/regression/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
-      <author>yourname@example.com (yourname)</author>
+      <author>davidh@bionicturtle.com (David Harper, CFA, FRM)</author>
       <guid>/tags/regression/</guid>
       <description></description>
     </item>

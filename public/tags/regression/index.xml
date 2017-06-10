@@ -6,8 +6,8 @@
     <description>Recent content in Regression on My blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <managingEditor>yourname@example.com (yourname)</managingEditor>
-    <webMaster>yourname@example.com (yourname)</webMaster>
+    <managingEditor>davidh@bionicturtle.com (David Harper, CFA, FRM)</managingEditor>
+    <webMaster>davidh@bionicturtle.com (David Harper, CFA, FRM)</webMaster>
     <copyright>(c) 2016 Copyright my blog</copyright>
     <lastBuildDate>Thu, 23 Jul 2015 21:13:14 -0500</lastBuildDate>
     
@@ -18,7 +18,7 @@
       <title>Hello R Markdown</title>
       <link>/2015/07/23/hello-r-markdown/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
-      <author>yourname@example.com (yourname)</author>
+      <author>davidh@bionicturtle.com (David Harper, CFA, FRM)</author>
       <guid>/2015/07/23/hello-r-markdown/</guid>
       <description>R MarkdownThis is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
 You can embed an R code chunk like this:

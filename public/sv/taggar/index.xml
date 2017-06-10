@@ -6,8 +6,8 @@
     <description>Recent content in Taggar on Min blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>sv</language>
-    <managingEditor>yourname@example.com (yourname)</managingEditor>
-    <webMaster>yourname@example.com (yourname)</webMaster>
+    <managingEditor>davidh@bionicturtle.com (David Harper, CFA, FRM)</managingEditor>
+    <webMaster>davidh@bionicturtle.com (David Harper, CFA, FRM)</webMaster>
     <copyright>(c) 2016 Alla rättigheter</copyright>
     <lastBuildDate>Mon, 05 Dec 2016 12:29:19 +0100</lastBuildDate>
     
@@ -18,7 +18,7 @@
       <title>Ett</title>
       <link>/sv/taggar/ett/</link>
       <pubDate>Mon, 05 Dec 2016 12:29:19 +0100</pubDate>
-      <author>yourname@example.com (yourname)</author>
+      <author>davidh@bionicturtle.com (David Harper, CFA, FRM)</author>
       <guid>/sv/taggar/ett/</guid>
       <description></description>
     </item>
@@ -27,7 +27,7 @@
       <title>Två</title>
       <link>/sv/taggar/tv%C3%A5/</link>
       <pubDate>Mon, 05 Dec 2016 12:29:19 +0100</pubDate>
-      <author>yourname@example.com (yourname)</author>
+      <author>davidh@bionicturtle.com (David Harper, CFA, FRM)</author>
       <guid>/sv/taggar/tv%C3%A5/</guid>
       <description></description>
     </item>

@@ -6,8 +6,8 @@
     <description>Recent content in Ämne on Min blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>sv</language>
-    <managingEditor>yourname@example.com (yourname)</managingEditor>
-    <webMaster>yourname@example.com (yourname)</webMaster>
+    <managingEditor>davidh@bionicturtle.com (David Harper, CFA, FRM)</managingEditor>
+    <webMaster>davidh@bionicturtle.com (David Harper, CFA, FRM)</webMaster>
     <copyright>(c) 2016 Alla rättigheter</copyright>
     
 	<atom:link href="/sv/%C3%A4mne/index.xml" rel="self" type="application/rss+xml" />
@@ -17,7 +17,7 @@
       <title>Ämne 1</title>
       <link>/sv/%C3%A4mne/%C3%A4mne-1/</link>
       <pubDate>Mon, 05 Dec 2016 12:29:19 +0100</pubDate>
-      <author>yourname@example.com (yourname)</author>
+      <author>davidh@bionicturtle.com (David Harper, CFA, FRM)</author>
       <guid>/sv/%C3%A4mne/%C3%A4mne-1/</guid>
       <description></description>
     </item>
