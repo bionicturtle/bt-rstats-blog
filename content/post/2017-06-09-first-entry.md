@@ -5,7 +5,7 @@ date: '2017-06-09'
 slug: first-entry
 categories: []
 tags: []
-description: description
+description: The first entry in my new blogdown site for sharing my rstats learning
 keywords:
   - key
   - words
