@@ -9,10 +9,28 @@
     <managingEditor>davidh@bionicturtle.com (David Harper, CFA, FRM)</managingEditor>
     <webMaster>davidh@bionicturtle.com (David Harper, CFA, FRM)</webMaster>
     <copyright>(c) 2016 Copyright my blog</copyright>
-    <lastBuildDate>Thu, 23 Jul 2015 21:13:14 -0500</lastBuildDate>
+    <lastBuildDate>Thu, 08 Jun 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Blogdown</title>
+      <link>/tags/blogdown/</link>
+      <pubDate>Thu, 08 Jun 2017 00:00:00 +0000</pubDate>
+      <author>davidh@bionicturtle.com (David Harper, CFA, FRM)</author>
+      <guid>/tags/blogdown/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Github</title>
+      <link>/tags/github/</link>
+      <pubDate>Thu, 08 Jun 2017 00:00:00 +0000</pubDate>
+      <author>davidh@bionicturtle.com (David Harper, CFA, FRM)</author>
+      <guid>/tags/github/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Plot</title>

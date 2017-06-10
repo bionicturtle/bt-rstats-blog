@@ -3,13 +3,13 @@ title: First entry
 author: David Harper
 date: '2017-06-08'
 slug: first-entry
-categories: []
-tags: []
+categories: [startup]
+tags: [github, blogdown]
 description: The first entry in my new blogdown site for sharing my rstats learning
 keywords:
   - key
   - words
-topics: topic 1
+topics: startup
 type: post
 ---
 
