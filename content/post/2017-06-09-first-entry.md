@@ -1,7 +1,7 @@
 ---
 title: First entry
 author: David Harper
-date: '2017-06-09'
+date: '2017-06-08'
 slug: first-entry
 categories: []
 tags: []
