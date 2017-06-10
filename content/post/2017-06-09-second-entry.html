@@ -1,0 +1,42 @@
+---
+title: "My second entry"
+author: "David Harper"
+date: '2017-06-09'
+description: Just a second entry, nothing special
+keywords:
+- key
+- words
+slug: second-entry
+tags: []
+categories: []
+topics: topic 1
+type: post
+---
+
+
+
+<div id="this-is-an-r-markdown-document" class="section level2">
+<h2>This is an R Markdown document</h2>
+<p>So I can insert a code snippet</p>
+<pre class="r"><code># let&#39;s plot a histogram
+x &lt;- rnorm(1000)
+hist(x)</code></pre>
+<p><img src="/post/2017-06-09-second-entry_files/figure-html/unnamed-chunk-1-1.png" width="672" /></p>
+<p>Let’s grab some data from Quandl</p>
+<pre class="r"><code>## install.packages(&quot;Quandl&quot;)
+library(Quandl); library(ggplot2)</code></pre>
+<pre><code>## Warning: package &#39;Quandl&#39; was built under R version 3.3.3</code></pre>
+<pre><code>## Loading required package: xts</code></pre>
+<pre><code>## Loading required package: zoo</code></pre>
+<pre><code>## 
+## Attaching package: &#39;zoo&#39;</code></pre>
+<pre><code>## The following objects are masked from &#39;package:base&#39;:
+## 
+##     as.Date, as.Date.numeric</code></pre>
+<pre class="r"><code>quandl_api &lt;- &quot;G5xW3q6kgbALQ8L2srWD&quot;
+Quandl.api_key(quandl_api)
+mydata = Quandl.datatable(&quot;WIKI/PRICES&quot;, ticker=&quot;AAPL&quot;)
+ggplot(mydata, aes(x=date, y=close)) + geom_line()</code></pre>
+<p><img src="/post/2017-06-09-second-entry_files/figure-html/unnamed-chunk-2-1.png" width="672" /></p>
+<pre class="r"><code># plot(mydata$date, mydata$close)</code></pre>
+</div>

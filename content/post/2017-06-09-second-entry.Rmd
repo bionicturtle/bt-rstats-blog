@@ -1,0 +1,37 @@
+---
+title: "My second entry"
+author: "David Harper"
+date: '2017-06-09'
+description: Just a second entry, nothing special
+keywords:
+- key
+- words
+slug: second-entry
+tags: []
+categories: []
+topics: topic 1
+type: post
+---
+
+## This is an R Markdown document
+
+So I can insert a code snippet 
+```{r}
+# let's plot a histogram
+x <- rnorm(1000)
+hist(x)
+```
+
+Let's grab some data from Quandl
+```{r}
+## install.packages("Quandl")
+library(Quandl); library(ggplot2)
+quandl_api <- "G5xW3q6kgbALQ8L2srWD"
+Quandl.api_key(quandl_api)
+mydata = Quandl.datatable("WIKI/PRICES", ticker="AAPL")
+ggplot(mydata, aes(x=date, y=close)) + geom_line()
+
+# plot(mydata$date, mydata$close)
+
+```
+
